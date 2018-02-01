@@ -17,5 +17,9 @@ return "done"
 }
 
 function doWhileLoop(array) {
-  
+  return Math.random() >= 0.25
+}
+
+do {
+  console.log
 }
